@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C0582D96-232E-4F1B-90BC-82DA0DC7477C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0582D96-232E-4F1B-90BC-82DA0DC7477C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>vulkanTesting project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>vulkanTesting</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build vulkanTesting</string>
+			<key>timeStartedRecording</key>
+			<real>566926118.04029202</real>
+			<key>timeStoppedRecording</key>
+			<real>566926120.25645304</real>
+			<key>title</key>
+			<string>Build vulkanTesting</string>
+			<key>uniqueIdentifier</key>
+			<string>C0582D96-232E-4F1B-90BC-82DA0DC7477C</string>
+		</dict>
+		<key>E5CADA96-F2B2-48FB-8068-AC5E7740B45A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5CADA96-F2B2-48FB-8068-AC5E7740B45A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>vulkanTesting project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>vulkanTesting</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build vulkanTesting</string>
+			<key>timeStartedRecording</key>
+			<real>566250983.86383498</real>
+			<key>timeStoppedRecording</key>
+			<real>566250984.10723495</real>
+			<key>title</key>
+			<string>Build vulkanTesting</string>
+			<key>uniqueIdentifier</key>
+			<string>E5CADA96-F2B2-48FB-8068-AC5E7740B45A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

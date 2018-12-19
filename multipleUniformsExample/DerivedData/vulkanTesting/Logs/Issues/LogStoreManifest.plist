@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>E964B3C7-75CD-417A-A1D1-D755E5485B89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>E964B3C7-75CD-417A-A1D1-D755E5485B89.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>vulkanTesting-fdndatbbibquxlcuiqtbrgviqlrv</string>
+			<key>timeStartedRecording</key>
+			<real>566926118.05912399</real>
+			<key>timeStoppedRecording</key>
+			<real>566926120.23236203</real>
+			<key>title</key>
+			<string>Build target vulkanTesting</string>
+			<key>uniqueIdentifier</key>
+			<string>E964B3C7-75CD-417A-A1D1-D755E5485B89</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
