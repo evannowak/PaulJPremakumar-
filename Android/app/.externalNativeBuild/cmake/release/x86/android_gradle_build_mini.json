@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/ppremakumar/repos/VulkanSandbox/Android/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "app-glue-Release-x86": {
+      "artifactName": "app-glue",
+      "buildCommand": "/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86 --target app-glue",
+      "abi": "x86",
+      "output": "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86/libapp-glue.a"
+    },
+    "vktuts-Release-x86": {
+      "artifactName": "vktuts",
+      "buildCommand": "/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86 --target vktuts",
+      "abi": "x86",
+      "output": "/Users/ppremakumar/repos/VulkanSandbox/Android/app/build/intermediates/cmake/release/obj/x86/libvktuts.so"
+    }
+  }
+}

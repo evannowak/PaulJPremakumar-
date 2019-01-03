@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/main/shaders"><file name="tri.vert" path="/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/main/shaders/tri.vert"/><file name="tri.frag" path="/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/main/shaders/tri.frag"/></source></dataSet><dataSet config="debug"><source path="/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/debug/shaders"/></dataSet></merger>

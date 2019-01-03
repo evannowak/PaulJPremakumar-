@@ -1,0 +1,69 @@
+
+{
+	"buildFiles" : [ "/Users/ppremakumar/repos/VulkanSandbox/Android/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"app-glue-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "app-glue",
+			"buildCommand" : "/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a --target app-glue",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot  -I/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/native_app_glue -I../../../../src/common  -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+					"workingDirectory" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a/libapp-glue.a",
+			"toolchain" : "18012225268721518241"
+		},
+		"vktuts-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "vktuts",
+			"buildCommand" : "/Users/ppremakumar/build_tools/android-sdk-27.1/cmake/3.6.4111459/bin/cmake --build /Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a --target vktuts",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot  -Dvktuts_EXPORTS -I/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/native_app_glue -I../../../../src/common -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/support/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror                      -DVK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/main/jni/VulkanMain.cpp",
+					"workingDirectory" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot  -Dvktuts_EXPORTS -I/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/native_app_glue -I../../../../src/common -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/support/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror                      -DVK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/main/jni/AndroidMain.cpp",
+					"workingDirectory" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot  -Dvktuts_EXPORTS -I/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/native_app_glue -I../../../../src/common -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/android/support/include -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -std=c++11 -Wall -Werror                      -DVK_USE_PLATFORM_ANDROID_KHR -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/src/common/vulkan_wrapper.cpp",
+					"workingDirectory" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/ppremakumar/repos/VulkanSandbox/Android/app/build/intermediates/cmake/release/obj/arm64-v8a/libvktuts.so",
+			"toolchain" : "18012225268721518241"
+		}
+	},
+	"toolchains" : 
+	{
+		"18012225268721518241" : 
+		{
+			"cCompilerExecutable" : "/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/ppremakumar/build_tools/android-sdk-24.2/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

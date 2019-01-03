@@ -1,0 +1,4 @@
+/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/vktuts.dir
+/Users/ppremakumar/repos/VulkanSandbox/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/app-glue.dir
