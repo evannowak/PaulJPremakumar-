@@ -1,2 +1,5 @@
 vulkanTesting.xcodeproj/xcuserdata/**
 vulkanTesting.xcodeproj/project.xcworkspace/xcuserdata/**
+DerivedData
+*.spv
+vulkanTesting.xcodeproj
